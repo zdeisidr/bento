@@ -50,6 +50,7 @@
     "firebase-tools": "^6.6.0",
     "node-sass": "^4.11.0",
     "prerender-spa-plugin": "^3.4.0",
+    "prettier": "1.17.0",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.10",
     "webpack-bundle-analyzer": "^3.3.2",
